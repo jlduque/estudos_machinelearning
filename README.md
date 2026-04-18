@@ -8,6 +8,4 @@ streamlit run ml_master_app.py
 ```
 
 ## App
-```
-https://estudosmachinelearning.streamlit.app/ 
-```
+https://estudosmachinelearning.streamlit.app
